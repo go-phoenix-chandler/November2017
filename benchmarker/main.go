@@ -1,3 +1,4 @@
+// based on https://github.com/danoctavian/c10k-bench/blob/master/go-bencher/tcp_bencher.go
 package main
 
 import (
